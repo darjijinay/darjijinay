@@ -1,13 +1,28 @@
-<div align="center">
+# 👋 Hi there! I'm Jinay Darji
+**BCA Student | Full-Stack Developer | Building Scalable Web Solutions**
 
-# Hi there 👋, I'm Jinay Darji
-**BCA Student | Full Stack Developer | Tech Enthusiast**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=darjijinay&label=Profile%20views&color=0e75b6&style=flat-square" alt="darjijinay" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=darjijinay&label=Profile%20views&color=0e75b6&style=flat" alt="darjijinay" />
+![Developer Banner](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Jinay%20Darji&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 ---
 
-### 🛠️ Techstack
+### 🎓 Education
+* **Current:** BCA (Bachelor of Computer Applications)
+* **Focus:** Software Engineering & Web Technologies
+
+---
+
+### 🚀 About Me
+I am a dedicated developer with a strong foundation in modern web technologies. I specialize in building responsive, efficient digital solutions and am constantly improving my technical and problem-solving skills. I am eager to collaborate, learn, and contribute to impactful products in a professional development environment.
+
+---
+
+<div align="center">
+
+### 💻 Tech Stack
 
 **Programming Languages**
 <p align="center">
@@ -24,43 +39,47 @@
   <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql" />
 </p>
 
-**Tools**
+**Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=darjijinay&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777&icon_color=0e75b6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darjijinay&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darjijinay&theme=github-light&color=0e75b6&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 📊 My Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darjijinay&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darjijinay&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Jinay's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darjijinay&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darjijinay&theme=react-dark&hide_border=false" width="100%" />
+### 🔝 Featured Repository
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darjijinay&repo=darjijinay&theme=dark" />
 </p>
 
 ---
 
-### 🤝 Connect with me
-<p align="center">
+### 🤝 Socials & Contact
+<p align="left">
 <a href="https://www.linkedin.com/in/darji-jinay-a99975360/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:darjijinay08email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/darjijinay">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="mailto:darjijinay08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
-✨ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
+---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
