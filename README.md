@@ -1,69 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-I'm **Jinay Darji**, a BCA student and passionate software developer interested in building clean, scalable, and user-friendly applications.
+# Hi there 👋, I'm Jinay Darji
+**BCA Student | Full Stack Developer | Tech Enthusiast**
+
+<img src="https://komarev.com/ghpvc/?username=darjijinay&label=Profile%20views&color=0e75b6&style=flat" alt="darjijinay" />
 
 ---
 
-### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+### 🛠️ Techstack
+
+**Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" />
+</p>
+
+**Web Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+**Database & Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql" />
+</p>
+
+**Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
 </p>
 
 ---
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+### 📊 My Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darjijinay&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
-
-### 🗄️ Backend & Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darjijinay&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Jinay's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darjijinay&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 
----
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darjijinay&theme=react-dark&hide_border=false" width="100%" />
 </p>
-
----
-
-### 📊 My GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=darjijinay&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darjijinay&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darjijinay&layout=compact&hide_border=true)
 
 ---
 
 ### 🤝 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/darji-jinay-a99975360/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/darji-jinay-a99975360/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:darjijinay08email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/darjijinay">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
----
+✨ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
 
-⭐ Thanks for visiting my profile!
+</div>
