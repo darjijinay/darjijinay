@@ -52,7 +52,7 @@ I am a dedicated developer with a strong foundation in modern web technologies. 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=darjijinay&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777&icon_color=0e75b6" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=darjijinay&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darjijinay&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="left">
@@ -61,10 +61,14 @@ I am a dedicated developer with a strong foundation in modern web technologies. 
 
 ---
 
-### 🔝 Featured & Skills
+### 🔝 Featured Projects
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darjijinay&repo=darjijinay&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darjijinay&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darjijinay&repo=Form_Builder&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darjijinay&repo=Inventory_Management&theme=dark" width="48%" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darjijinay&repo=Form_Frontend&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darjijinay&repo=Form_Backend&theme=dark" width="48%" />
 </p>
 
 ---
